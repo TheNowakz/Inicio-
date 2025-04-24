@@ -6,6 +6,13 @@ Este es un proyecto básico que realice, más adelante subiré proyectos con un 
 
 
 
+# HERRAMIENTAS 
+
+NAMP
+SQLMAL
+HASHCAT
+CAT
+
 # Instalación 
 
 pkg install python 
